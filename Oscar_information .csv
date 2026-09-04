@@ -1,0 +1,442 @@
+year,category,nominee,movie,winner
+1991,Actor In A Leading Role,Warren Beatty,Bugsy,False
+1991,Actor In A Leading Role,Robert De Niro,Cape Fear,False
+1991,Actor In A Leading Role,Anthony Hopkins,The Silence of the Lambs,True
+1991,Actor In A Leading Role,Nick Nolte,The Prince of Tides,False
+1991,Actor In A Leading Role,Robin Williams,The Fisher King,False
+1991,Actress In A Leading Role,Geena Davis,Thelma & Louise,False
+1991,Actress In A Leading Role,Laura Dern,Rambling Rose,False
+1991,Actress In A Leading Role,Jodie Foster,The Silence of the Lambs,True
+1991,Actress In A Leading Role,Bette Midler,For the Boys,False
+1991,Actress In A Leading Role,Susan Sarandon,Thelma & Louise,False
+1991,Directing,John Singleton,Boyz N the Hood,False
+1991,Directing,Barry Levinson,Bugsy,False
+1991,Directing,Oliver Stone,JFK,False
+1991,Directing,Jonathan Demme,The Silence of the Lambs,True
+1991,Directing,Ridley Scott,Thelma & Louise,False
+1991,Best Picture,"Don Hahn, Producer",Beauty and the Beast,False
+1991,Best Picture,"Mark Johnson, Barry Levinson and Warren Beatty, Producers",Bugsy,False
+1991,Best Picture,"A. Kitman Ho and Oliver Stone, Producers",JFK,False
+1991,Best Picture,"Barbra Streisand and Andrew Karsch, Producers",The Prince of Tides,False
+1991,Best Picture,"Edward Saxon, Kenneth Utt and Ron Bozman, Producers",The Silence of the Lambs,True
+1991,Writing (Screenplay Based On Material Previously Produced Or Published),Agnieszka Holland,Europa Europa,False
+1991,Writing (Screenplay Based On Material Previously Produced Or Published),"Fannie Flagg, Carol Sobieski",Fried Green Tomatoes,False
+1991,Writing (Screenplay Based On Material Previously Produced Or Published),"Oliver Stone, Zachary Sklar",JFK,False
+1991,Writing (Screenplay Based On Material Previously Produced Or Published),"Pat Conroy, Becky Johnston",The Prince of Tides,False
+1991,Writing (Screenplay Based On Material Previously Produced Or Published),Ted Tally,The Silence of the Lambs,True
+1991,Writing (Screenplay Written Directly For The Screen),John Singleton,Boyz N the Hood,False
+1991,Writing (Screenplay Written Directly For The Screen),James Toback,Bugsy,False
+1991,Writing (Screenplay Written Directly For The Screen),Richard LaGravenese,The Fisher King,False
+1991,Writing (Screenplay Written Directly For The Screen),"Lawrence Kasdan, Meg Kasdan",Grand Canyon,False
+1991,Writing (Screenplay Written Directly For The Screen),Callie Khouri,Thelma & Louise,True
+1992,Actor In A Leading Role,Robert Downey Jr.,Chaplin,False
+1992,Actor In A Leading Role,Clint Eastwood,Unforgiven,False
+1992,Actor In A Leading Role,Al Pacino,Scent of a Woman,True
+1992,Actor In A Leading Role,Stephen Rea,The Crying Game,False
+1992,Actor In A Leading Role,Denzel Washington,Malcolm X,False
+1992,Actress In A Leading Role,Catherine Deneuve,Indochine,False
+1992,Actress In A Leading Role,Mary McDonnell,Passion Fish,False
+1992,Actress In A Leading Role,Michelle Pfeiffer,Love Field,False
+1992,Actress In A Leading Role,Susan Sarandon,Lorenzo's Oil,False
+1992,Actress In A Leading Role,Emma Thompson,Howards End,True
+1992,Directing,Neil Jordan,The Crying Game,False
+1992,Directing,James Ivory,Howards End,False
+1992,Directing,Robert Altman,The Player,False
+1992,Directing,Martin Brest,Scent of a Woman,False
+1992,Directing,Clint Eastwood,Unforgiven,True
+1992,Best Picture,"Stephen Woolley, Producer",The Crying Game,False
+1992,Best Picture,"David Brown, Rob Reiner and Andrew Scheinman, Producers",A Few Good Men,False
+1992,Best Picture,"Ismail Merchant, Producer",Howards End,False
+1992,Best Picture,"Martin Brest, Producer",Scent of a Woman,False
+1992,Best Picture,"Clint Eastwood, Producer",Unforgiven,True
+1992,Writing (Screenplay Based On Material Previously Produced Or Published),Peter Barnes,Enchanted April,False
+1992,Writing (Screenplay Based On Material Previously Produced Or Published),Ruth Prawer Jhabvala,Howards End,True
+1992,Writing (Screenplay Based On Material Previously Produced Or Published),Michael Tolkin,The Player,False
+1992,Writing (Screenplay Based On Material Previously Produced Or Published),Richard Friedenberg,A River Runs through It,False
+1992,Writing (Screenplay Based On Material Previously Produced Or Published),Bo Goldman,Scent of a Woman,False
+1992,Writing (Screenplay Written Directly For The Screen),Neil Jordan,The Crying Game,True
+1992,Writing (Screenplay Written Directly For The Screen),Woody Allen,Husbands and Wives,False
+1992,Writing (Screenplay Written Directly For The Screen),"George Miller, Nick Enright",Lorenzo's Oil,False
+1992,Writing (Screenplay Written Directly For The Screen),John Sayles,Passion Fish,False
+1992,Writing (Screenplay Written Directly For The Screen),David Webb Peoples,Unforgiven,False
+1993,Actor In A Leading Role,Daniel Day-Lewis,In the Name of the Father,False
+1993,Actor In A Leading Role,Laurence Fishburne,What's Love Got to Do with It,False
+1993,Actor In A Leading Role,Tom Hanks,Philadelphia,True
+1993,Actor In A Leading Role,Anthony Hopkins,The Remains of the Day,False
+1993,Actor In A Leading Role,Liam Neeson,Schindler's List,False
+1993,Actress In A Leading Role,Angela Bassett,What's Love Got to Do with It,False
+1993,Actress In A Leading Role,Stockard Channing,Six Degrees of Separation,False
+1993,Actress In A Leading Role,Holly Hunter,The Piano,True
+1993,Actress In A Leading Role,Emma Thompson,The Remains of the Day,False
+1993,Actress In A Leading Role,Debra Winger,Shadowlands,False
+1993,Directing,Jim Sheridan,In the Name of the Father,False
+1993,Directing,Jane Campion,The Piano,False
+1993,Directing,James Ivory,The Remains of the Day,False
+1993,Directing,Steven Spielberg,Schindler's List,True
+1993,Directing,Robert Altman,Short Cuts,False
+1993,Best Picture,"Arnold Kopelson, Producer",The Fugitive,False
+1993,Best Picture,"Jim Sheridan, Producer",In the Name of the Father,False
+1993,Best Picture,"Jan Chapman, Producer",The Piano,False
+1993,Best Picture,"Mike Nichols, John Calley and Ismail Merchant, Producers",The Remains of the Day,False
+1993,Best Picture,"Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers",Schindler's List,True
+1993,Writing (Screenplay Based On Material Previously Produced Or Published),"Jay Cocks, Martin Scorsese",The Age of Innocence,False
+1993,Writing (Screenplay Based On Material Previously Produced Or Published),"Terry George, Jim Sheridan",In the Name of the Father,False
+1993,Writing (Screenplay Based On Material Previously Produced Or Published),Ruth Prawer Jhabvala,The Remains of the Day,False
+1993,Writing (Screenplay Based On Material Previously Produced Or Published),Steven Zaillian,Schindler's List,True
+1993,Writing (Screenplay Based On Material Previously Produced Or Published),William Nicholson,Shadowlands,False
+1993,Writing (Screenplay Written Directly For The Screen),Gary Ross,Dave,False
+1993,Writing (Screenplay Written Directly For The Screen),Jeff Maguire,In the Line of Fire,False
+1993,Writing (Screenplay Written Directly For The Screen),Ron Nyswaner,Philadelphia,False
+1993,Writing (Screenplay Written Directly For The Screen),Jane Campion,The Piano,True
+1993,Writing (Screenplay Written Directly For The Screen),"Screenplay by Nora Ephron, David S. Ward, Jeff Arch; Story by Jeff Arch",Sleepless in Seattle,False
+1994,Actor In A Leading Role,Morgan Freeman,The Shawshank Redemption,False
+1994,Actor In A Leading Role,Tom Hanks,Forrest Gump,True
+1994,Actor In A Leading Role,Nigel Hawthorne,The Madness of King George,False
+1994,Actor In A Leading Role,Paul Newman,Nobody's Fool,False
+1994,Actor In A Leading Role,John Travolta,Pulp Fiction,False
+1994,Actress In A Leading Role,Jodie Foster,Nell,False
+1994,Actress In A Leading Role,Jessica Lange,Blue Sky,True
+1994,Actress In A Leading Role,Miranda Richardson,Tom & Viv,False
+1994,Actress In A Leading Role,Winona Ryder,Little Women,False
+1994,Actress In A Leading Role,Susan Sarandon,The Client,False
+1994,Directing,Woody Allen,Bullets over Broadway,False
+1994,Directing,Robert Zemeckis,Forrest Gump,True
+1994,Directing,Quentin Tarantino,Pulp Fiction,False
+1994,Directing,Robert Redford,Quiz Show,False
+1994,Directing,Krzysztof Kieslowski,Red,False
+1994,Best Picture,"Wendy Finerman, Steve Tisch and Steve Starkey, Producers",Forrest Gump,True
+1994,Best Picture,"Duncan Kenworthy, Producer",Four Weddings and a Funeral,False
+1994,Best Picture,"Lawrence Bender, Producer",Pulp Fiction,False
+1994,Best Picture,"Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik, Producers",Quiz Show,False
+1994,Best Picture,"Niki Marvin, Producer",The Shawshank Redemption,False
+1994,Writing (Screenplay Based On Material Previously Produced Or Published),Eric Roth,Forrest Gump,True
+1994,Writing (Screenplay Based On Material Previously Produced Or Published),Alan Bennett,The Madness of King George,False
+1994,Writing (Screenplay Based On Material Previously Produced Or Published),Robert Benton,Nobody's Fool,False
+1994,Writing (Screenplay Based On Material Previously Produced Or Published),Paul Attanasio,Quiz Show,False
+1994,Writing (Screenplay Based On Material Previously Produced Or Published),Frank Darabont,The Shawshank Redemption,False
+1994,Writing (Screenplay Written Directly For The Screen),"Woody Allen, Douglas McGrath",Bullets over Broadway,False
+1994,Writing (Screenplay Written Directly For The Screen),Richard Curtis,Four Weddings and a Funeral,False
+1994,Writing (Screenplay Written Directly For The Screen),"Frances Walsh, Peter Jackson",Heavenly Creatures,False
+1994,Writing (Screenplay Written Directly For The Screen),Screenplay by Quentin Tarantino; Stories by Quentin Tarantino & Roger Avary,Pulp Fiction,True
+1994,Writing (Screenplay Written Directly For The Screen),"Krzysztof Piesiewicz, Krzysztof Kieslowski",Red,False
+1995,Actor In A Leading Role,Nicolas Cage,Leaving Las Vegas,True
+1995,Actor In A Leading Role,Richard Dreyfuss,Mr. Holland's Opus,False
+1995,Actor In A Leading Role,Anthony Hopkins,Nixon,False
+1995,Actor In A Leading Role,Sean Penn,Dead Man Walking,False
+1995,Actor In A Leading Role,Massimo Troisi,The Postman (Il Postino),False
+1995,Actress In A Leading Role,Susan Sarandon,Dead Man Walking,True
+1995,Actress In A Leading Role,Elisabeth Shue,Leaving Las Vegas,False
+1995,Actress In A Leading Role,Sharon Stone,Casino,False
+1995,Actress In A Leading Role,Meryl Streep,The Bridges of Madison County,False
+1995,Actress In A Leading Role,Emma Thompson,Sense and Sensibility,False
+1995,Directing,Chris Noonan,Babe,False
+1995,Directing,Mel Gibson,Braveheart,True
+1995,Directing,Tim Robbins,Dead Man Walking,False
+1995,Directing,Mike Figgis,Leaving Las Vegas,False
+1995,Directing,Michael Radford,The Postman (Il Postino),False
+1995,Best Picture,"Brian Grazer, Producer",Apollo 13,False
+1995,Best Picture,"George Miller, Doug Mitchell and Bill Miller, Producers",Babe,False
+1995,Best Picture,"Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",Braveheart,True
+1995,Best Picture,"Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers",The Postman (Il Postino),False
+1995,Best Picture,"Lindsay Doran, Producer",Sense and Sensibility,False
+1995,Writing (Screenplay Based On Material Previously Produced Or Published),"William Broyles, Jr., Al Reinert",Apollo 13,False
+1995,Writing (Screenplay Based On Material Previously Produced Or Published),"George Miller, Chris Noonan",Babe,False
+1995,Writing (Screenplay Based On Material Previously Produced Or Published),Mike Figgis,Leaving Las Vegas,False
+1995,Writing (Screenplay Based On Material Previously Produced Or Published),"Anna Pavignano, Michael Radford, Furio Scarpelli, Giacomo Scarpelli, Massimo Troisi",The Postman (Il Postino),False
+1995,Writing (Screenplay Based On Material Previously Produced Or Published),Emma Thompson,Sense and Sensibility,True
+1995,Writing (Screenplay Written Directly For The Screen),Randall Wallace,Braveheart,False
+1995,Writing (Screenplay Written Directly For The Screen),Woody Allen,Mighty Aphrodite,False
+1995,Writing (Screenplay Written Directly For The Screen),"Stephen J. Rivele, Christopher Wilkinson, Oliver Stone",Nixon,False
+1995,Writing (Screenplay Written Directly For The Screen),"Screenplay by Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow; Story by John Lasseter, Peter Docter, Andrew Stanton, Joe Ranft",Toy Story,False
+1995,Writing (Screenplay Written Directly For The Screen),Christopher McQuarrie,The Usual Suspects,True
+1996,Actor In A Leading Role,Tom Cruise,Jerry Maguire,False
+1996,Actor In A Leading Role,Ralph Fiennes,The English Patient,False
+1996,Actor In A Leading Role,Woody Harrelson,The People vs. Larry Flynt,False
+1996,Actor In A Leading Role,Geoffrey Rush,Shine,True
+1996,Actor In A Leading Role,Billy Bob Thornton,Sling Blade,False
+1996,Actress In A Leading Role,Brenda Blethyn,Secrets & Lies,False
+1996,Actress In A Leading Role,Diane Keaton,Marvin's Room,False
+1996,Actress In A Leading Role,Frances McDormand,Fargo,True
+1996,Actress In A Leading Role,Kristin Scott Thomas,The English Patient,False
+1996,Actress In A Leading Role,Emily Watson,Breaking the Waves,False
+1996,Directing,Anthony Minghella,The English Patient,True
+1996,Directing,Joel Coen,Fargo,False
+1996,Directing,Milos Forman,The People vs. Larry Flynt,False
+1996,Directing,Mike Leigh,Secrets & Lies,False
+1996,Directing,Scott Hicks,Shine,False
+1996,Best Picture,"Saul Zaentz, Producer",The English Patient,True
+1996,Best Picture,"Ethan Coen, Producer",Fargo,False
+1996,Best Picture,"James L. Brooks, Laurence Mark, Richard Sakai and Cameron Crowe, Producers",Jerry Maguire,False
+1996,Best Picture,"Simon Channing-Williams, Producer",Secrets & Lies,False
+1996,Best Picture,"Jane Scott, Producer",Shine,False
+1996,Writing (Screenplay Based On Material Previously Produced Or Published),Arthur Miller,The Crucible,False
+1996,Writing (Screenplay Based On Material Previously Produced Or Published),Anthony Minghella,The English Patient,False
+1996,Writing (Screenplay Based On Material Previously Produced Or Published),Kenneth Branagh,Hamlet,False
+1996,Writing (Screenplay Based On Material Previously Produced Or Published),Billy Bob Thornton,Sling Blade,True
+1996,Writing (Screenplay Based On Material Previously Produced Or Published),John Hodge,Trainspotting,False
+1996,Writing (Screenplay Written Directly For The Screen),"Ethan Coen, Joel Coen",Fargo,True
+1996,Writing (Screenplay Written Directly For The Screen),Cameron Crowe,Jerry Maguire,False
+1996,Writing (Screenplay Written Directly For The Screen),John Sayles,Lone Star,False
+1996,Writing (Screenplay Written Directly For The Screen),Mike Leigh,Secrets & Lies,False
+1996,Writing (Screenplay Written Directly For The Screen),Screenplay by Jan Sardi; Story by Scott Hicks,Shine,False
+1997,Actor In A Leading Role,Matt Damon,Good Will Hunting,False
+1997,Actor In A Leading Role,Robert Duvall,The Apostle,False
+1997,Actor In A Leading Role,Peter Fonda,Ulee's Gold,False
+1997,Actor In A Leading Role,Dustin Hoffman,Wag the Dog,False
+1997,Actor In A Leading Role,Jack Nicholson,As Good as It Gets,True
+1997,Actress In A Leading Role,Helena Bonham Carter,The Wings of the Dove,False
+1997,Actress In A Leading Role,Julie Christie,Afterglow,False
+1997,Actress In A Leading Role,Judi Dench,Mrs. Brown,False
+1997,Actress In A Leading Role,Helen Hunt,As Good as It Gets,True
+1997,Actress In A Leading Role,Kate Winslet,Titanic,False
+1997,Directing,Peter Cattaneo,The Full Monty,False
+1997,Directing,Gus Van Sant,Good Will Hunting,False
+1997,Directing,Curtis Hanson,L.A. Confidential,False
+1997,Directing,Atom Egoyan,The Sweet Hereafter,False
+1997,Directing,James Cameron,Titanic,True
+1997,Best Picture,"James L. Brooks, Bridget Johnson and Kristi Zea, Producers",As Good as It Gets,False
+1997,Best Picture,"Uberto Pasolini, Producer",The Full Monty,False
+1997,Best Picture,"Lawrence Bender, Producer",Good Will Hunting,False
+1997,Best Picture,"Arnon Milchan, Curtis Hanson and Michael Nathanson, Producers",L.A. Confidential,False
+1997,Best Picture,"James Cameron and Jon Landau, Producers",Titanic,True
+1997,Writing (Screenplay Based On Material Previously Produced Or Published),Paul Attanasio,Donnie Brasco,False
+1997,Writing (Screenplay Based On Material Previously Produced Or Published),"Brian Helgeland, Curtis Hanson",L.A. Confidential,True
+1997,Writing (Screenplay Based On Material Previously Produced Or Published),Atom Egoyan,The Sweet Hereafter,False
+1997,Writing (Screenplay Based On Material Previously Produced Or Published),"Hilary Henkin, David Mamet",Wag the Dog,False
+1997,Writing (Screenplay Based On Material Previously Produced Or Published),Hossein Amini,The Wings of the Dove,False
+1997,Writing (Screenplay Written Directly For The Screen),"Screenplay by Mark Andrus, James L. Brooks; Story by Mark Andrus",As Good as It Gets,False
+1997,Writing (Screenplay Written Directly For The Screen),Paul Thomas Anderson,Boogie Nights,False
+1997,Writing (Screenplay Written Directly For The Screen),Woody Allen,Deconstructing Harry,False
+1997,Writing (Screenplay Written Directly For The Screen),Simon Beaufoy,The Full Monty,False
+1997,Writing (Screenplay Written Directly For The Screen),"Ben Affleck, Matt Damon",Good Will Hunting,True
+2015,Actor In A Leading Role,Bryan Cranston,Trumbo,False
+2015,Actor In A Leading Role,Matt Damon,The Martian,False
+2015,Actor In A Leading Role,Leonardo DiCaprio,The Revenant,True
+2015,Actor In A Leading Role,Michael Fassbender,Steve Jobs,False
+2015,Actor In A Leading Role,Eddie Redmayne,The Danish Girl,False
+2015,Actress In A Leading Role,Cate Blanchett,Carol,False
+2015,Actress In A Leading Role,Brie Larson,Room,True
+2015,Actress In A Leading Role,Jennifer Lawrence,Joy,False
+2015,Actress In A Leading Role,Charlotte Rampling,45 Years,False
+2015,Actress In A Leading Role,Saoirse Ronan,Brooklyn,False
+2015,Directing,Adam McKay,The Big Short,False
+2015,Directing,George Miller,Mad Max: Fury Road,False
+2015,Directing,Alejandro G. Iñárritu,The Revenant,True
+2015,Directing,Lenny Abrahamson,Room,False
+2015,Directing,Tom McCarthy,Spotlight,False
+2015,Best Picture,"Brad Pitt, Dede Gardner and Jeremy Kleiner, Producers",The Big Short,False
+2015,Best Picture,"Steven Spielberg, Marc Platt and Kristie Macosko Krieger, Producers",Bridge of Spies,False
+2015,Best Picture,"Finola Dwyer and Amanda Posey, Producers",Brooklyn,False
+2015,Best Picture,"Doug Mitchell and George Miller, Producers",Mad Max: Fury Road,False
+2015,Best Picture,"Simon Kinberg, Ridley Scott, Michael Schaefer and Mark Huffam, Producers",The Martian,False
+2015,Best Picture,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent and Keith Redmon, Producers",The Revenant,False
+2015,Best Picture,"Ed Guiney, Producer",Room,False
+2015,Best Picture,"Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",Spotlight,True
+2015,Writing (Adapted Screenplay),Screenplay by Charles Randolph and Adam McKay,The Big Short,True
+2015,Writing (Adapted Screenplay),Screenplay by Nick Hornby,Brooklyn,False
+2015,Writing (Adapted Screenplay),Screenplay by Phyllis Nagy,Carol,False
+2015,Writing (Adapted Screenplay),Screenplay by Drew Goddard,The Martian,False
+2015,Writing (Adapted Screenplay),Screenplay by Emma Donoghue,Room,False
+2015,Writing (Original Screenplay),Written by Matt Charman and Ethan Coen & Joel Coen,Bridge of Spies,False
+2015,Writing (Original Screenplay),Written by Alex Garland,Ex Machina,False
+2015,Writing (Original Screenplay),"Screenplay by Pete Docter, Meg LeFauve, Josh Cooley; Original story by Pete Docter, Ronnie del Carmen",Inside Out,False
+2015,Writing (Original Screenplay),Written by Josh Singer & Tom McCarthy,Spotlight,True
+2015,Writing (Original Screenplay),Screenplay by Jonathan Herman and Andrea Berloff; Story by S. Leigh Savidge & Alan Wenkus and Andrea Berloff,Straight Outta Compton,False
+2016,Actor In A Leading Role,Casey Affleck,Manchester by the Sea,True
+2016,Actor In A Leading Role,Andrew Garfield,Hacksaw Ridge,False
+2016,Actor In A Leading Role,Ryan Gosling,La La Land,False
+2016,Actor In A Leading Role,Viggo Mortensen,Captain Fantastic,False
+2016,Actor In A Leading Role,Denzel Washington,Fences,False
+2016,Directing,Denis Villeneuve,Arrival,False
+2016,Directing,Mel Gibson,Hacksaw Ridge,False
+2016,Directing,Damien Chazelle,La La Land,True
+2016,Directing,Kenneth Lonergan,Manchester by the Sea,False
+2016,Directing,Barry Jenkins,Moonlight,False
+2016,Best Picture,"Shawn Levy, Dan Levine, Aaron Ryder and David Linde, Producers",Arrival,False
+2016,Best Picture,"Scott Rudin, Denzel Washington and Todd Black, Producers",Fences,False
+2016,Best Picture,"Bill Mechanic and David Permut, Producers",Hacksaw Ridge,False
+2016,Best Picture,"Carla Hacken and Julie Yorn, Producers",Hell or High Water,False
+2016,Best Picture,"Donna Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams and Theodore Melfi, Producers",Hidden Figures,False
+2016,Best Picture,"Fred Berger, Jordan Horowitz and Marc Platt, Producers",La La Land,False
+2016,Best Picture,"Emile Sherman, Iain Canning and Angie Fielder, Producers",Lion,False
+2016,Best Picture,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck and Kevin J. Walsh, Producers",Manchester by the Sea,False
+2016,Best Picture,"Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers",Moonlight,True
+2016,Writing (Adapted Screenplay),Screenplay by Eric Heisserer,Arrival,False
+2016,Writing (Adapted Screenplay),Screenplay by August Wilson,Fences,False
+2016,Writing (Adapted Screenplay),Screenplay by Allison Schroeder and Theodore Melfi,Hidden Figures,False
+2016,Writing (Adapted Screenplay),Screenplay by Luke Davies,Lion,False
+2016,Writing (Adapted Screenplay),Screenplay by Barry Jenkins; Story by Tarell Alvin McCraney,Moonlight,True
+2016,Writing (Original Screenplay),Written by Taylor Sheridan,Hell or High Water,False
+2016,Writing (Original Screenplay),Written by Damien Chazelle,La La Land,False
+2016,Writing (Original Screenplay),"Written by Yorgos Lanthimos, Efthimis Filippou",The Lobster,False
+2016,Writing (Original Screenplay),Written by Kenneth Lonergan,Manchester by the Sea,True
+2016,Writing (Original Screenplay),Written by Mike Mills,20th Century Women,False
+2017,Actor In A Leading Role,Timothée Chalamet,Call Me by Your Name,False
+2017,Actor In A Leading Role,Daniel Day-Lewis,Phantom Thread,False
+2017,Actor In A Leading Role,Daniel Kaluuya,Get Out,False
+2017,Actor In A Leading Role,Gary Oldman,Darkest Hour,True
+2017,Actor In A Leading Role,Denzel Washington,"Roman J. Israel, Esq.",False
+2017,Actress In A Leading Role,Sally Hawkins,The Shape of Water,False
+2017,Actress In A Leading Role,Frances McDormand,"Three Billboards outside Ebbing, Missouri",True
+2017,Actress In A Leading Role,Margot Robbie,"I, Tonya",False
+2017,Actress In A Leading Role,Saoirse Ronan,Lady Bird,False
+2017,Actress In A Leading Role,Meryl Streep,The Post,False
+2017,Directing,Christopher Nolan,Dunkirk,False
+2017,Directing,Jordan Peele,Get Out,False
+2017,Directing,Greta Gerwig,Lady Bird,False
+2017,Directing,Paul Thomas Anderson,Phantom Thread,False
+2017,Directing,Guillermo del Toro,The Shape of Water,True
+2017,Best Picture,"Peter Spears, Luca Guadagnino, Emilie Georges and Marco Morabito, Producers",Call Me by Your Name,False
+2017,Best Picture,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten and Douglas Urbanski, Producers",Darkest Hour,False
+2017,Best Picture,"Emma Thomas and Christopher Nolan, Producers",Dunkirk,False
+2017,Best Picture,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr. and Jordan Peele, Producers",Get Out,False
+2017,Best Picture,"Scott Rudin, Eli Bush and Evelyn O'Neill, Producers",Lady Bird,False
+2017,Best Picture,"JoAnne Sellar, Paul Thomas Anderson, Megan Ellison and Daniel Lupi, Producers",Phantom Thread,False
+2017,Best Picture,"Amy Pascal, Steven Spielberg and Kristie Macosko Krieger, Producers",The Post,False
+2017,Best Picture,"Guillermo del Toro and J. Miles Dale, Producers",The Shape of Water,True
+2017,Best Picture,"Graham Broadbent, Pete Czernin and Martin McDonagh, Producers","Three Billboards outside Ebbing, Missouri",False
+2017,Writing (Adapted Screenplay),Screenplay by James Ivory,Call Me by Your Name,True
+2017,Writing (Adapted Screenplay),Screenplay by Scott Neustadter & Michael H. Weber,The Disaster Artist,False
+2017,Writing (Adapted Screenplay),Screenplay by Scott Frank & James Mangold and Michael Green; Story by James Mangold,Logan,False
+2017,Writing (Adapted Screenplay),Written for the screen by Aaron Sorkin,Molly's Game,False
+2017,Writing (Adapted Screenplay),Screenplay by Virgil Williams and Dee Rees,Mudbound,False
+2017,Writing (Original Screenplay),Written by Emily V. Gordon & Kumail Nanjiani,The Big Sick,False
+2017,Writing (Original Screenplay),Written by Jordan Peele,Get Out,True
+2017,Writing (Original Screenplay),Written by Greta Gerwig,Lady Bird,False
+2017,Writing (Original Screenplay),Screenplay by Guillermo del Toro & Vanessa Taylor; Story by Guillermo del Toro,The Shape of Water,False
+2017,Writing (Original Screenplay),Written by Martin McDonagh,"Three Billboards outside Ebbing, Missouri",False
+2018,Actor In A Leading Role,Christian Bale,Vice,False
+2018,Actor In A Leading Role,Bradley Cooper,A Star Is Born,False
+2018,Actor In A Leading Role,Willem Dafoe,At Eternity's Gate,False
+2018,Actor In A Leading Role,Rami Malek,Bohemian Rhapsody,True
+2018,Actor In A Leading Role,Viggo Mortensen,Green Book,False
+2018,Actress In A Leading Role,Yalitza Aparicio,Roma,False
+2018,Actress In A Leading Role,Glenn Close,The Wife,False
+2018,Actress In A Leading Role,Olivia Colman,The Favourite,True
+2018,Actress In A Leading Role,Lady Gaga,A Star Is Born,False
+2018,Actress In A Leading Role,Melissa McCarthy,Can You Ever Forgive Me?,False
+2018,Directing,Spike Lee,BlacKkKlansman,False
+2018,Directing,Pawel Pawlikowski,Cold War,False
+2018,Directing,Yorgos Lanthimos,The Favourite,False
+2018,Directing,Alfonso Cuarón,Roma,True
+2018,Directing,Adam McKay,Vice,False
+2018,Best Picture,"Kevin Feige, Producer",Black Panther,False
+2018,Best Picture,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele and Spike Lee, Producers",BlacKkKlansman,False
+2018,Best Picture,"Graham King, Producer",Bohemian Rhapsody,False
+2018,Best Picture,"Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",The Favourite,False
+2018,Best Picture,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book,True
+2018,Best Picture,"Gabriela Rodríguez and Alfonso Cuarón, Producers",Roma,False
+2018,Best Picture,"Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",A Star Is Born,False
+2018,Best Picture,"Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick, Producers",Vice,False
+2018,Writing (Adapted Screenplay),Written by Joel Coen & Ethan Coen,The Ballad of Buster Scruggs,False
+2018,Writing (Adapted Screenplay),Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee,BlacKkKlansman,True
+2018,Writing (Adapted Screenplay),Screenplay by Nicole Holofcener and Jeff Whitty,Can You Ever Forgive Me?,False
+2018,Writing (Adapted Screenplay),Written for the screen by Barry Jenkins,If Beale Street Could Talk,False
+2018,Writing (Adapted Screenplay),Screenplay by Eric Roth and Bradley Cooper & Will Fetters,A Star Is Born,False
+2018,Writing (Original Screenplay),Written by Deborah Davis and Tony McNamara,The Favourite,False
+2018,Writing (Original Screenplay),Written by Paul Schrader,First Reformed,False
+2018,Writing (Original Screenplay),"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",Green Book,True
+2018,Writing (Original Screenplay),Written by Alfonso Cuarón,Roma,False
+2018,Writing (Original Screenplay),Written by Adam McKay,Vice,False
+2019,Actor In A Leading Role,Antonio Banderas,Pain and Glory,False
+2019,Actor In A Leading Role,Leonardo DiCaprio,Once upon a Time...in Hollywood,False
+2019,Actor In A Leading Role,Adam Driver,Marriage Story,False
+2019,Actor In A Leading Role,Joaquin Phoenix,Joker,True
+2019,Actor In A Leading Role,Jonathan Pryce,The Two Popes,False
+2019,Actress In A Leading Role,Cynthia Erivo,Harriet,False
+2019,Actress In A Leading Role,Scarlett Johansson,Marriage Story,False
+2019,Actress In A Leading Role,Saoirse Ronan,Little Women,False
+2019,Actress In A Leading Role,Charlize Theron,Bombshell,False
+2019,Actress In A Leading Role,Renée Zellweger,Judy,True
+2019,Directing,Martin Scorsese,The Irishman,False
+2019,Directing,Todd Phillips,Joker,False
+2019,Directing,Sam Mendes,1917,False
+2019,Directing,Quentin Tarantino,Once upon a Time...in Hollywood,False
+2019,Directing,Bong Joon Ho,Parasite,True
+2019,Best Picture,"Peter Chernin, Jenno Topping and James Mangold, Producers",Ford v Ferrari,False
+2019,Best Picture,"Martin Scorsese, Robert De Niro, Jane Rosenthal and Emma Tillinger Koskoff, Producers",The Irishman,False
+2019,Best Picture,"Carthew Neal, Taika Waititi and Chelsea Winstanley, Producers",Jojo Rabbit,False
+2019,Best Picture,"Todd Phillips, Bradley Cooper and Emma Tillinger Koskoff, Producers",Joker,False
+2019,Best Picture,"Amy Pascal, Producer",Little Women,False
+2019,Best Picture,"Noah Baumbach and David Heyman, Producers",Marriage Story,False
+2019,Best Picture,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",1917,False
+2019,Best Picture,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once upon a Time...in Hollywood,False
+2019,Best Picture,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,True
+2019,Writing (Adapted Screenplay),Screenplay by Steven Zaillian,The Irishman,False
+2019,Writing (Adapted Screenplay),Screenplay by Taika Waititi,Jojo Rabbit,True
+2019,Writing (Adapted Screenplay),Written by Todd Phillips & Scott Silver,Joker,False
+2019,Writing (Adapted Screenplay),Written for the screen by Greta Gerwig,Little Women,False
+2019,Writing (Adapted Screenplay),Written by Anthony McCarten,The Two Popes,False
+2019,Writing (Original Screenplay),Written by Rian Johnson,Knives Out,False
+2019,Writing (Original Screenplay),Written by Noah Baumbach,Marriage Story,False
+2019,Writing (Original Screenplay),Written by Sam Mendes & Krysty Wilson-Cairns,1917,False
+2019,Writing (Original Screenplay),Written by Quentin Tarantino,Once upon a Time...in Hollywood,False
+2019,Writing (Original Screenplay),"Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",Parasite,True
+2020,Actor In A Leading Role,Riz Ahmed,Sound of Metal,False
+2020,Actor In A Leading Role,Chadwick Boseman,Ma Rainey's Black Bottom,False
+2020,Actor In A Leading Role,Anthony Hopkins,The Father,True
+2020,Actor In A Leading Role,Gary Oldman,Mank,False
+2020,Actor In A Leading Role,Steven Yeun,Minari,False
+2020,Actress In A Leading Role,Viola Davis,Ma Rainey's Black Bottom,False
+2020,Actress In A Leading Role,Andra Day,The United States vs. Billie Holiday,False
+2020,Actress In A Leading Role,Vanessa Kirby,Pieces of a Woman,False
+2020,Actress In A Leading Role,Frances McDormand,Nomadland,True
+2020,Actress In A Leading Role,Carey Mulligan,Promising Young Woman,False
+2020,Directing,Thomas Vinterberg,Another Round,False
+2020,Directing,David Fincher,Mank,False
+2020,Directing,Lee Isaac Chung,Minari,False
+2020,Directing,Chloé Zhao,Nomadland,True
+2020,Directing,Emerald Fennell,Promising Young Woman,False
+2020,Best Picture,"David Parfitt, Jean-Louis Livi and Philippe Carcassonne, Producers",The Father,False
+2020,Best Picture,"Shaka King, Charles D. King and Ryan Coogler, Producers",Judas and the Black Messiah,False
+2020,Best Picture,"Ceán Chaffin, Eric Roth and Douglas Urbanski, Producers",Mank,False
+2020,Best Picture,"Christina Oh, Producer",Minari,False
+2020,Best Picture,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers",Nomadland,True
+2020,Best Picture,"Ben Browning, Ashley Fox, Emerald Fennell and Josey McNamara, Producers",Promising Young Woman,False
+2020,Best Picture,"Bert Hamelinck and Sacha Ben Harroche, Producers",Sound of Metal,False
+2020,Best Picture,"Marc Platt and Stuart Besser, Producers",The Trial of the Chicago 7,False
+2020,Writing (Adapted Screenplay),Screenplay by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Peter Baynham & Erica Rivinoja & Dan Mazer & Jena Friedman & Lee Kern; Story by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Nina Pedrad,Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,False
+2020,Writing (Adapted Screenplay),Screenplay by Christopher Hampton and Florian Zeller,The Father,True
+2020,Writing (Adapted Screenplay),Written for the screen by Chloé Zhao,Nomadland,False
+2020,Writing (Adapted Screenplay),Screenplay by Kemp Powers,One Night in Miami...,False
+2020,Writing (Adapted Screenplay),Written for the screen by Ramin Bahrani,The White Tiger,False
+2020,Writing (Original Screenplay),Screenplay by Will Berson & Shaka King; Story by Will Berson & Shaka King and Kenny Lucas & Keith Lucas,Judas and the Black Messiah,False
+2020,Writing (Original Screenplay),Written by Lee Isaac Chung,Minari,False
+2020,Writing (Original Screenplay),Written by Emerald Fennell,Promising Young Woman,True
+2020,Writing (Original Screenplay),Screenplay by Darius Marder & Abraham Marder; Story by Darius Marder & Derek Cianfrance,Sound of Metal,False
+2020,Writing (Original Screenplay),Written by Aaron Sorkin,The Trial of the Chicago 7,False
+2021,Actor In A Leading Role,Javier Bardem,Being the Ricardos,False
+2021,Actor In A Leading Role,Benedict Cumberbatch,The Power of the Dog,False
+2021,Actor In A Leading Role,Andrew Garfield,"tick, tick...BOOM!",False
+2021,Actor In A Leading Role,Will Smith,King Richard,True
+2021,Actor In A Leading Role,Denzel Washington,The Tragedy of Macbeth,False
+2021,Actress In A Leading Role,Jessica Chastain,The Eyes of Tammy Faye,True
+2021,Actress In A Leading Role,Olivia Colman,The Lost Daughter,False
+2021,Actress In A Leading Role,Penélope Cruz,Parallel Mothers,False
+2021,Actress In A Leading Role,Nicole Kidman,Being the Ricardos,False
+2021,Actress In A Leading Role,Kristen Stewart,Spencer,False
+2021,Directing,Kenneth Branagh,Belfast,False
+2021,Directing,Ryusuke Hamaguchi,Drive My Car,False
+2021,Directing,Paul Thomas Anderson,Licorice Pizza,False
+2021,Directing,Jane Campion,The Power of the Dog,True
+2021,Directing,Steven Spielberg,West Side Story,False
+2021,Best Picture,"Laura Berwick, Kenneth Branagh, Becca Kovacik and Tamar Thomas, Producers",Belfast,False
+2021,Best Picture,"Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers",CODA,True
+2021,Best Picture,"Adam McKay and Kevin Messick, Producers",Don't Look Up,False
+2021,Best Picture,"Teruhisa Yamamoto, Producer",Drive My Car,False
+2021,Best Picture,"Mary Parent, Denis Villeneuve and Cale Boyter, Producers",Dune,False
+2021,Best Picture,"Tim White, Trevor White and Will Smith, Producers",King Richard,False
+2021,Best Picture,"Sara Murphy, Adam Somner and Paul Thomas Anderson, Producers",Licorice Pizza,False
+2021,Best Picture,"Guillermo del Toro, J. Miles Dale and Bradley Cooper, Producers",Nightmare Alley,False
+2021,Best Picture,"Jane Campion, Tanya Seghatchian, Emile Sherman, Iain Canning and Roger Frappier, Producers",The Power of the Dog,False
+2021,Best Picture,"Steven Spielberg and Kristie Macosko Krieger, Producers",West Side Story,False
+2021,Writing (Adapted Screenplay),Screenplay by Siân Heder,CODA,True
+2021,Writing (Adapted Screenplay),"Screenplay by Ryusuke Hamaguchi, Takamasa Oe",Drive My Car,False
+2021,Writing (Adapted Screenplay),Screenplay by Jon Spaihts and Denis Villeneuve and Eric Roth,Dune,False
+2021,Writing (Adapted Screenplay),Written by Maggie Gyllenhaal,The Lost Daughter,False
+2021,Writing (Adapted Screenplay),Written by Jane Campion,The Power of the Dog,False
+2021,Writing (Original Screenplay),Written by Kenneth Branagh,Belfast,True
+2021,Writing (Original Screenplay),Screenplay by Adam McKay; Story by Adam McKay & David Sirota,Don't Look Up,False
+2021,Writing (Original Screenplay),Written by Zach Baylin,King Richard,False
+2021,Writing (Original Screenplay),Written by Paul Thomas Anderson,Licorice Pizza,False
+2021,Writing (Original Screenplay),"Written by Eskil Vogt, Joachim Trier",The Worst Person in the World,False
